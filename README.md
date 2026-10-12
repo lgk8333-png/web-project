@@ -1,5 +1,5 @@
 1. 간이식물재배기
-2. 전자 기계
+2. 전자 제품
 3. 관련 사이트
 4. https://www.lge.co.kr/product/lg-tiiun/l023m1p42?modelId=MD10823858&pdpType=PURCHASE&sKwd=%ED%8B%94%EC%9A%B4&sTab=unit_product_list&sRank=1
 5. https://www.coupang.com/vp/products/6812018113?src=1139000&spec=10799999&addtag=400&ctag=6812018113&lptag=AF3768060&itime=20261012112816&pageType=PRODUCT&pageValue=6812018113&wPcid=17917720967674087911530&wRef=m.blog.naver.com&wTime=20261012112816&redirect=landing&traceid=V0-183-378f94bbc2ed2fc4&mcid=3693db3c8db44983a0a8c77b1ebde2ce&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=
